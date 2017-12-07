@@ -2,7 +2,7 @@
 
 The idea here is to create a game engine capable of recreating, in TypeScript and Angular, enough of the functionality of game engine and other similar applications to create IWBTG fan games.
 
-For now this is a simple placeholder CLI generated Angular proyect.
+`For now this is a simple placeholder CLI generated Angular proyect.`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.5.
 
